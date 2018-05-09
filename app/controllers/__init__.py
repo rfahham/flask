@@ -1,12 +1,13 @@
-from flask import Flask
+# #!/usr/bin/env python 
+# # -*- coding: utf-8 -*-
 
-app = Flask(__name__)
+# from flask import Flask
 
-@app.route("/")
-def index():
-	return "Hello world!"
+# app = Flask(__name__)
 
-if __name__ == "__main__":
-	app.run()
+# @app.route("/")
+# def index():
+# 	return "Atenção"
 
-
+# if __name__ == "__main__":
+# 	app.run()
