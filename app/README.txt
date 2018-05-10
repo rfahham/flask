@@ -73,6 +73,12 @@ $ python run.py db init
 Para fazer a migração do BD
 $ python run.py db migrate
 
+Para fazer o upgrade do BD
+$ python run.py db upgrade
+
+Instalando o Flask WTF
+Gerenciador de formulário
+$venv/bin/pip install flask-wtf
 
 
 
